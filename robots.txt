@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://abiffjoias.netlify.app/sitemap.xml
